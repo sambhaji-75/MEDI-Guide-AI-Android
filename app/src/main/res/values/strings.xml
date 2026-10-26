@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MEDI GUIDE-AI</string>
+    <string name="notification_channel_id">medicine_alerts</string>
+    <string name="notification_channel_name">Medicine Alerts</string>
+    <string-array name="health_languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Marathi</item>
+    </string-array>
+    <string name="tagline">Your health, your way</string>
+    <string name="user_profile">USER PROFILE</string>
+    <string name="profile_subtitle">Personalize your healthcare experience</string>
+    <string name="your_age">1. Your Age</string>
+    <string name="enter_age">Enter age</string>
+    <string name="preferred_language">2. Preferred Language</string>
+    <string name="health_needs">3. Health Needs</string>
+    <string name="general_health">General Health</string>
+    <string name="medicine_reminders">Medicine Reminders</string>
+    <string name="mother_care">Mother Care</string>
+    <string name="baby_care">Baby Care</string>
+    <string name="elder_care">Elder Care</string>
+    <string name="fitness_wellness">Fitness and Wellness</string>
+    <string name="continue_home">Continue to Home</string>
+    <string name="valid_age">Please enter your age.</string>
+    <string name="age_range">Age must be between 1 and 120.</string>
+    <string name="select_health_need">Select at least one health need.</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="profile_saved">Profile saved successfully.</string>
+    <string name="save_failed">Unable to save profile. Please try again.</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="language_marathi">Marathi</string>
+
+
+</resources>
+
+
+
+
